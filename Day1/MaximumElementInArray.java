@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class MaximumElementInArray
 {
     public static int maxElement(int arr[]){
         if(arr==null){
