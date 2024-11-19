@@ -4,4 +4,4 @@
 2. Maximum & Minimum Element
 3. Contains Duplicates Elements
 4. Reverse Array
-5. Maximum Sum of Subarray ( Kadane Algorithm ).
+5. Maximum Sum of Subarray (Kadane Algorithm)
