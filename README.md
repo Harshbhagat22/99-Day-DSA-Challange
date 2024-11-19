@@ -14,6 +14,7 @@ Welcome to my **365-Day Data Structures and Algorithms Challenge**! This reposit
 ## 🗂️ Repository Structure  
 This repository is organized by topic and problem:  
 Each folder includes the problem statement, code solution, and notes (if applicable).
+![image](https://github.com/user-attachments/assets/d408e308-58ea-49e6-9c8f-2e000981d489)
 
 ---
 
