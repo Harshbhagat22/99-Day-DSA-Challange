@@ -33,5 +33,3 @@ Feel free to fork this repository, start your own challenge, or suggest improvem
 - **LinkedIn:** https://www.linkedin.com/in/harsh-bhagat-707b0231a/ 
 - **GitHub:** https://github.com/Harshbhagat22
 ---
-
-** Stay consistent and keep coding!** 💻
