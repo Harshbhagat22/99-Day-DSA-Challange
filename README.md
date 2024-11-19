@@ -27,9 +27,8 @@ Each folder includes the problem statement, code solution, and notes (if applica
 Feel free to fork this repository, start your own challenge, or suggest improvements.  
 
 **Contact:**  
-- **Email:** [your-email@example.com]  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub:** [Your GitHub Profile](#)
+- **Email:** harshbhagat9970@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/harsh-bhagat-707b0231a/ 
+- **GitHub:** https://github.com/Harshbhagat22
 
-
-**Stay consistent and keep coding! 💻**
+# Stay consistent and keep coding! 💻
