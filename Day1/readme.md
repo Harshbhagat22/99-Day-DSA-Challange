@@ -1,5 +1,5 @@
 # DSA Day 1 :
-** Topics Covered : Array Manipulation.
+** Topics Covered : Array Manipulation **
 1. KthLargestElement
 2. Maximum & Minimum Element
 3. Contains Duplicates Elements
