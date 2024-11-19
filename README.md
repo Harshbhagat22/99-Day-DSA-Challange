@@ -34,5 +34,4 @@ Feel free to fork this repository, start your own challenge, or suggest improvem
 - **GitHub:** https://github.com/Harshbhagat22
 ---
 
-*** Stay consistent and keep coding!*** 💻
----
+** Stay consistent and keep coding!** 💻
