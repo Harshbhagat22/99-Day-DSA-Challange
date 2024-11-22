@@ -9,8 +9,7 @@ class Solution {
             sum += Math.pow(last,digits);
             n = n/10;
         }
-        
-        
+	    
         return temp == sum;
     }
 }
