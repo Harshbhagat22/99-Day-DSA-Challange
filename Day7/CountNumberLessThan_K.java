@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FindNumberLessThan_K
+public class CountNumberLessThan_K
 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
