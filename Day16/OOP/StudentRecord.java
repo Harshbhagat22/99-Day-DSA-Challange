@@ -28,7 +28,7 @@ class Student {
     
 }
 
-public class Main{
+public class StudentRecord{
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Number of Student   :\n");
