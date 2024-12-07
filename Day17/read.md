@@ -1,5 +1,4 @@
 # Java Basics Practice
-
 This repository contains simple Java programs to understand basic concepts like ASCII conversion, temperature conversion, inheritance, and handling student marks. Each program is designed to demonstrate a specific concept in Java.
 
 ## Files Included
@@ -28,10 +27,5 @@ This repository contains simple Java programs to understand basic concepts like 
 
 - JDK 8 or higher installed.
 - Basic knowledge of Java programming.
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+---
 
